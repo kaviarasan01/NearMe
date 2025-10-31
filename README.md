@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex03 Places Around Me
 ## Date: 
 
 ## AIM
@@ -10,18 +10,21 @@ To develop a website to display details about the places around my house.
 Create a Django admin interface.
 
 ### STEP 2
-Download your city map from Google.
+Download your city map from Google as an image.
 
 ### STEP 3
-Using ```<map>``` tag name the map.
+Insert the image using ```<img>``` tag and link it to the map.
 
 ### STEP 4
-Create clickable regions in the image using ```<area>``` tag.
+Using ```<map>``` tag name the map.
 
 ### STEP 5
-Write HTML programs for all the regions identified.
+Create clickable regions in the image using ```<area>``` tag.
 
 ### STEP 6
+Write HTML programs for all the regions identified.
+
+### STEP 7
 Execute the programs and publish them.
 
 ## CODE
